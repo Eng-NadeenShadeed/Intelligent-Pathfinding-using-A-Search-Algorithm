@@ -22,10 +22,11 @@ Each node in the grid is evaluated using:
 The algorithm always selects the node with the lowest f(n) value to explore next.
 
 ## Example Grid
-
+```
 S * * .
 # # * #
 . . * G
+```
 
 ## Output Example
 
